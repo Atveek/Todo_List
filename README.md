@@ -17,4 +17,4 @@ The Todo App allows users to:
 
 # TODO App
 
-<img src"https://github.com/Atveek/Todo_List/assets/115652544/8a23b8dd-0955-4398-87b1-1bf6cd77878f" alt="todo_app_image" />
+<img src="https://github.com/Atveek/Todo_List/assets/115652544/8a23b8dd-0955-4398-87b1-1bf6cd77878f"/>
