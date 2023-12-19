@@ -1,6 +1,6 @@
 # MERN Stack Todo App Workshop Project
 
-This project is a simple Todo App developed during a workshop on the MERN (MongoDB, Express.js, React, Node.js) stack in [College Name].
+This project is a simple Todo App developed during a workshop on the MERN (MongoDB, Express.js, React, Node.js) stack in LDRP-Institute of Technology and Research.
 
 ## Project Overview
 
